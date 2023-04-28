@@ -13,7 +13,8 @@ import ContentWrapper from "../contentWrapper/ContentWrapper";
 
 import PosterFallback from "../../assets/no-poster.png";
 import RatingCircle from '../ratingCircle/RatingCircle';
-import Img from '../lazyLoadImage/Img';
+import Img from '../lazyloadImage/Img';
+
 const Carousel = ({data,loading,mediaTypeAlt,title}) => {
    
     const {url} = useSelector((state)=>state.home)
