@@ -4,7 +4,7 @@ import "./videosSection.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
 import { PlayIcon } from "../detailBanner/PlayIcon";
-import Img from "../../../components/lazyLoadImage/Img";
+import Img from "../../../components/lazyloadImage/Img";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
 
 
